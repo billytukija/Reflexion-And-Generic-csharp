@@ -1,0 +1,11 @@
+C:\Users\billy.richard\Documents\GitHub\Reflexion-And-Generic-csharp\Reflexion-Generic\Reflexion-Generic\bin\Debug\netcoreapp2.2\Reflexion-Generic.deps.json
+C:\Users\billy.richard\Documents\GitHub\Reflexion-And-Generic-csharp\Reflexion-Generic\Reflexion-Generic\bin\Debug\netcoreapp2.2\Reflexion-Generic.runtimeconfig.json
+C:\Users\billy.richard\Documents\GitHub\Reflexion-And-Generic-csharp\Reflexion-Generic\Reflexion-Generic\bin\Debug\netcoreapp2.2\Reflexion-Generic.runtimeconfig.dev.json
+C:\Users\billy.richard\Documents\GitHub\Reflexion-And-Generic-csharp\Reflexion-Generic\Reflexion-Generic\bin\Debug\netcoreapp2.2\Reflexion-Generic.dll
+C:\Users\billy.richard\Documents\GitHub\Reflexion-And-Generic-csharp\Reflexion-Generic\Reflexion-Generic\bin\Debug\netcoreapp2.2\Reflexion-Generic.pdb
+C:\Users\billy.richard\Documents\GitHub\Reflexion-And-Generic-csharp\Reflexion-Generic\Reflexion-Generic\obj\Debug\netcoreapp2.2\Reflexion-Generic.csprojAssemblyReference.cache
+C:\Users\billy.richard\Documents\GitHub\Reflexion-And-Generic-csharp\Reflexion-Generic\Reflexion-Generic\obj\Debug\netcoreapp2.2\Reflexion-Generic.csproj.CoreCompileInputs.cache
+C:\Users\billy.richard\Documents\GitHub\Reflexion-And-Generic-csharp\Reflexion-Generic\Reflexion-Generic\obj\Debug\netcoreapp2.2\Reflexion-Generic.AssemblyInfoInputs.cache
+C:\Users\billy.richard\Documents\GitHub\Reflexion-And-Generic-csharp\Reflexion-Generic\Reflexion-Generic\obj\Debug\netcoreapp2.2\Reflexion-Generic.AssemblyInfo.cs
+C:\Users\billy.richard\Documents\GitHub\Reflexion-And-Generic-csharp\Reflexion-Generic\Reflexion-Generic\obj\Debug\netcoreapp2.2\Reflexion-Generic.dll
+C:\Users\billy.richard\Documents\GitHub\Reflexion-And-Generic-csharp\Reflexion-Generic\Reflexion-Generic\obj\Debug\netcoreapp2.2\Reflexion-Generic.pdb
